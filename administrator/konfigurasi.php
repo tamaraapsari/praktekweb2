@@ -1,7 +1,7 @@
 <?php 
-include 'view/konfigurasiUI.php';
+include 'view/KonfigurasiUI.php';
 
-$konf = new konfigurasiUI();
+$konf = new KonfigurasiUI();
 
 $konf->tampilForm();
 
